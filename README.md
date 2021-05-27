@@ -1,0 +1,1 @@
+# artigo-dotnet-core-mockando-classe-httpclient
